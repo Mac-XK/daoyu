@@ -1,0 +1,8 @@
+/* The microphone permission prompt. */
+"NSMicrophoneUsageDescription" = "刀语在这台 iPhone 上将你说的话转换为文字。音频绝不会离开这台 iPhone，转录完成后即被删除。";
+
+/* The speech recognition permission prompt. */
+"NSSpeechRecognitionUsageDescription" = "刀语使用 Apple 的设备端语音识别将你说的话转换为文字。你说的任何内容都不会发送到服务器。";
+
+/* The kind of file the app opens: a words file (.hexwords). */
+"Hex words file" = "刀语词语文件";
